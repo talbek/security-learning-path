@@ -1,0 +1,3 @@
+# Generated HTML reports (in case -OutputPath points into the repo)
+SecurityCheck_*.html
+reports/
