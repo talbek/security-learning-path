@@ -35,7 +35,7 @@ security-learning-path/
 
 ## 🛠️ Projects
 
-- [ ] **Windows Security Check (PowerShell)**: checks updates, firewall, Defender, open ports and startup programs
+- [x] **[Windows Security Check (PowerShell)](scripts/windows-security-check/)**: checks updates, firewall, Defender, open ports and startup programs
 - [ ] Lab write-up: first steps with Metasploitable2
 - [ ] Notes: authentication vs. authorization, SSO & SAML
 
